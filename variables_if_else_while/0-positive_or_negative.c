@@ -3,8 +3,8 @@
 #include <time.h>
 
 /**
- * main - give a random number to n and say if it's more, less or equal to 0
- * return 0 (Success)
+ * main - entry point
+ * Return: 0 (Success)
  */
 
 int main(void)
