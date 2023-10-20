@@ -6,9 +6,9 @@
 
 int main(void)
 {
-	int c = 0;
+	int c = 48;
 
-	while (c <= 9)
+	while (c <= 57)
 	{
 		putchar (c);
 		c++;
